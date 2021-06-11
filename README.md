@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is James Minsu Jeon, ***Jamesu Jeon*** for short, ***Jamesu*** for shorter.
 
@@ -27,4 +27,4 @@ There are some things as follows 😎
 - *[coding-problem-solutions](https://github.com/jamesujeon/coding-problem-solutions)*: The repository for my coding problem solutions.
 - *[university-portfolio](https://github.com/jamesujeon/university-portfolio)*: The repository for my university portfolio.
 
-### Welcome to my GitHub 👾
+Welcome to my GitHub 👾
