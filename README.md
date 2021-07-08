@@ -24,5 +24,6 @@ I recently have interests as follows ⭐️
 There are some things as follows 😎
 
 - *[jamesu.dev](https://jamesu.dev/)*: My blog for programming.
+- *[jamesujeon's gists](https://gist.github.com/jamesujeon)*: My Gists for code, notes, and snippets.
 - *[coding-problem-solutions](https://github.com/jamesujeon/coding-problem-solutions)*: The repository for my coding problem solutions.
 - *[university-portfolio](https://github.com/jamesujeon/university-portfolio)*: The repository for my university portfolio.
