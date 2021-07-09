@@ -2,7 +2,9 @@
 
 [![Jamesu's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=dark&show_icons=true&include_all_commits=true&username=jamesujeon)](https://github.com/jamesujeon)
 
-My name is James Minsu Jeon, ***Jamesu Jeon*** for short, ***Jamesu*** for shorter.
+My name is James Minsu Jeon,  
+***Jamesu Jeon*** for short,  
+***Jamesu*** for shorter.
 
 I'm the ***iOS Programmer*** using Swift & Objective-C, but prefer ***Swift***.
 
